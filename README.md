@@ -1,0 +1,5 @@
+- 👋 Hello! I am Steven Delpercio
+- 👀 I’m interested in learning how things tick, building fun applications, doing flips on a snowboard, music & video games -> 🏂👾🎵
+- 🌱 I’m currently learning... Well, I never stop learning, but... Power Platform and cyber security basics
+- 💞️ I’m looking to collaborate on ethical hacking projects, Django web apps, react front end projects, and anything that will allow me to learn new skills!
+- 📫 You can reach me Via Email Percio@ProtonMail.com or Twitter @StevenDelpercio
